@@ -1,5 +1,6 @@
 import os
 import json
+import h5py
 from PIL import Image
 
 # pip install numpy==1.26.3
