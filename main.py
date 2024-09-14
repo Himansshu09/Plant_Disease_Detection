@@ -3,7 +3,7 @@ import json
 from PIL import Image
 
 import numpy as np
-!pip install tensorflow==2.15.0.post1
+pip install tensorflow==2.15.0.post1
 import tensorflow as tf
 import streamlit as st
 
