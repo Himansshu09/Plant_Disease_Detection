@@ -2,9 +2,9 @@ import os
 import json
 from PIL import Image
 
-!pip install numpy==1.26.3
-!pip install streamlit==1.31.0
-!pip install tensorflow==2.16.1
+pip install numpy==1.26.3
+pip install streamlit==1.31.0
+pip install tensorflow==2.16.1
 import numpy as np
 import tensorflow as tf
 import streamlit as st
